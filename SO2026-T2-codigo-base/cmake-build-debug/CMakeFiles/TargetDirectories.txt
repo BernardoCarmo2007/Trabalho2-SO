@@ -1,0 +1,5 @@
+/tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/cmake-build-debug/CMakeFiles/ossim.dir
+/tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/cmake-build-debug/CMakeFiles/application.dir
+/tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/cmake-build-debug/CMakeFiles/archive.dir
+/tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/cmake-build-debug/CMakeFiles/rebuild_cache.dir

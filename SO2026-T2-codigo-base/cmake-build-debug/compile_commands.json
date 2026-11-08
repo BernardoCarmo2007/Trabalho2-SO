@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/cmake-build-debug",
+  "command": "/usr/bin/cc   -g -std=gnu11 -fdiagnostics-color=always -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/ossim.dir/ossim.c.o -c /tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/ossim.c",
+  "file": "/tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/ossim.c",
+  "output": "CMakeFiles/ossim.dir/ossim.c.o"
+},
+{
+  "directory": "/tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/cmake-build-debug",
+  "command": "/usr/bin/cc   -g -std=gnu11 -fdiagnostics-color=always -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/ossim.dir/queue.c.o -c /tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/queue.c",
+  "file": "/tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/queue.c",
+  "output": "CMakeFiles/ossim.dir/queue.c.o"
+},
+{
+  "directory": "/tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/cmake-build-debug",
+  "command": "/usr/bin/cc   -g -std=gnu11 -fdiagnostics-color=always -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/ossim.dir/scheduler.c.o -c /tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/scheduler.c",
+  "file": "/tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/scheduler.c",
+  "output": "CMakeFiles/ossim.dir/scheduler.c.o"
+},
+{
+  "directory": "/tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/cmake-build-debug",
+  "command": "/usr/bin/cc   -g -std=gnu11 -fdiagnostics-color=always -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/ossim.dir/virtmem.c.o -c /tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/virtmem.c",
+  "file": "/tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/virtmem.c",
+  "output": "CMakeFiles/ossim.dir/virtmem.c.o"
+},
+{
+  "directory": "/tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/cmake-build-debug",
+  "command": "/usr/bin/cc   -g -std=gnu11 -fdiagnostics-color=always -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/application.dir/application.c.o -c /tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/application.c",
+  "file": "/tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/application.c",
+  "output": "CMakeFiles/application.dir/application.c.o"
+},
+{
+  "directory": "/tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/cmake-build-debug",
+  "command": "/usr/bin/cc   -g -std=gnu11 -fdiagnostics-color=always -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/application.dir/burst_queue.c.o -c /tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/burst_queue.c",
+  "file": "/tmp/tmp.PcftnMiQqJ/SO2026-T2-codigo-base/burst_queue.c",
+  "output": "CMakeFiles/application.dir/burst_queue.c.o"
+}
+]
